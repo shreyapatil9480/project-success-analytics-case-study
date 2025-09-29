@@ -4,7 +4,7 @@
 
 This repository contains a **portfolio-ready analytics project** designed for aspiring Business Analysts, Program Managers, and Data Analysts who want to showcase their data-driven skills on GitHub. It demonstrates end‑to‑end workflow for working with a synthetic dataset that simulates real‑world project performance metrics. The project includes data generation, exploratory data analysis (EDA), feature engineering, classification and regression modeling, and clear documentation.
 
-The core idea is to predict whether a project will succeed (binary classification) and to forecast the project’s success score (regression) using features such as team size, budget, risk level, complexity, scope changes, and satisfaction ratings. All data is **synthetically generated**—there is no personally identifiable or proprietary information included.
+The core idea is to predict whether a project will succeed (binary classification) and to forecast the project's success score (regression) using features such as team size, budget, risk level, complexity, scope changes, and satisfaction ratings. The synthetic dataset (`synthetic_project_data.csv`) and analysis notebook (`project_success_analysis.ipynb`) are located in the root of this repository for convenience. All data is **synthetically generated**—there is no personally identifiable or proprietary information included.
 
 ## Repository Structure
 
